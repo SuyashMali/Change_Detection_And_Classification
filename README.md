@@ -27,9 +27,6 @@ The pipeline comprises several key steps:
 * <b>Changes template post morphological operations and thresholding:</b>
 ![changes](assets/outputs/changes.png)
 
-* <b>Changes template post morphological operations and thresholding:</b>
-![changes](assets/outputs/changes.png)
-
 * <b>Marked Changes:</b>
 ![changes](assets/outputs/marked_differences.png)
 
